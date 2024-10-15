@@ -1,7 +1,7 @@
 ## 🚀 About this project
  This is the Universty website template.
 
-* Only html or css and little bit javascript use in this project
+* Only html or css  use in this project
 
 
 ## How to download ?
